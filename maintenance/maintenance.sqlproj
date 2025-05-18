@@ -57,4 +57,9 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="maintenance.sql" />
+    <Build Include="error_handler.sql" />
+    <Build Include="table_cloner.sql" />
+  </ItemGroup>
 </Project>
